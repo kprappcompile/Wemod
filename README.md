@@ -6,8 +6,8 @@
 การอัพโหลดโปรแกรมลงบนบอร์ด เราสามารถใช้ Arudino IDE ได้เลย แต่จำเป็นต้องติดตั้ง USB Driver ของมันก่อน
 </p>
 
-<a href="">NodeMCU ESP8266 คืออะไร</a>
-<a href="">Arduino UNO R3 คืออะไร</a>
+<a href="https://github.com/kprappcompile/NodeMCU-V2">NodeMCU ESP8266 คืออะไร</a><br>
+<a href="https://github.com/kprappcompile/Arduno-UNO">Arduino UNO R3 คืออะไร</a><br>
 <div style="align-content: center">
 <img src="./images/wemosd1r2.png" alt="board wemos d1 r2 esp8266 esp12 wifi" width="200">
 </div>
