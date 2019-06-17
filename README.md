@@ -1,13 +1,13 @@
-# Wemos-D1
-Board Wemos D1 R2 ESP8266 ESP12F ตัวบอร์ด แบบเดียวกับ Arduino ทำให้ใช้งานง่าย ต่อสายได้สะดวกขึ้น
 <h1>Wemos D1 R2</h1>
-<h3>ESP8266 ESP12 WIFI </h3>
-<p>WeMos-D1 R2 เป็นบอร์ดที่นำเอา ESP8266 WIFI มาสร้างเป็นรูปแบบของ Arduino UNO R3
-ทำให้ผู้ใช้งานสามารถต่อสายได้สดวกขึ้น
-ไม่ต้องต่อสายไฟเอง หรือ มันคือ ESP8266 WIFI ในร้างArudino UNO เชื่อมต่อทาง USB ด้วย TTL USB Chip CH340
+<h3>ESP8266 ESP12 WIFI ตัวบอร์ด แบบเดียวกับ Arduino ทำให้ใช้งานง่าย ต่อสายได้สะดวกขึ้น</h3>
+<h3>กล่าวได้ว่า Wemos D1 คือ การทำให้ NodeMCU ESP8266 มาสร้างเป็นรูปแบบของ Arduino UNO R3</h3>
+<p>WeMos-D1 จึงทำให้ผู้ใช้งานสามารถต่อสายได้สะดวกขึ้น
+ไม่ต้องต่อสายไฟเองเชื่อมต่อทาง USB ด้วย TTL USB Chip CH340
 การอัพโหลดโปรแกรมลงบนบอร์ด เราสามารถใช้ Arudino IDE ได้เลย แต่จำเป็นต้องติดตั้ง USB Driver ของมันก่อน
 </p>
 
+<a href="">NodeMCU ESP8266 คืออะไร</a>
+<a href="">Arduino UNO R3 คืออะไร</a>
 <div style="align-content: center">
 <img src="./images/wemosd1r2.png" alt="board wemos d1 r2 esp8266 esp12 wifi" width="200">
 </div>
